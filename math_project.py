@@ -1,19 +1,19 @@
 import cmath
 import time
-
+#kelper's matrices formula is defined 
 def solvesimeqn(x1,y1,c1,x2,y2,c2):
 	x= ((c1*y2) - (y1*c2))/((x1*y2)-(y1*x2))
 	y= ((x1*c2)-(x2*c1))/((x1*y2)-(y1*x2))
 	return x, y
 
-
+# formula method was used here
 def solvequadeqn(a, b, c):
     D = b**2 - 4 * a * c
     x1 = (-b - cmath.sqrt(D)) / (2 * a)
     x2 = (-b + cmath.sqrt(D)) / (2 * a)
     return x1, x2
 
-
+#This part is mainly for user interaction 
 while True:
 	try:
 		time.sleep(2)
