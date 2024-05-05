@@ -2,7 +2,7 @@ import cmath
 
 
 
-
+# I used the formula method in this function 
 def solvequadeq(a, b, c):
     D = b**2 - 4 * a * c
     x1 = (-b - cmath.sqrt(D)) / (2 * a)
