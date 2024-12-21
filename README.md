@@ -8,56 +8,56 @@ Hi, I'm Abraham, an aspiring software engineer. I’m passionate about learning 
 
 ## Projects
 
-#### 1. File_organiser.py
+#### -- File_organiser.py
 
 Description: A script designed to organize files in a directory by grouping them into folders based on their file types.
 
 Concepts Used: File handling, os module, and directory management.
 
 
-#### 2. first_letter.py
+#### -- first_letter.py
 
 Description: This script returns the first letter of any word entered by the user.
 
 Concepts Used: String manipulation and user input.
 
 
-#### 3. math_project.py
+#### -- math_project.py
 
 Description: An interactive program that solves both simultaneous and quadratic equations. It uses loops to prompt the user for the type of operation they wish to perform.
 
 Concepts Used: Loops, conditionals, user input, and math operations.
 
 
-#### 4. password_generator.py
+#### -- password_generator.py
 
 Description: Generates random and secure passwords of a specified length to enhance online security.
 
 Concepts Used: Random module, loops, and string manipulation.
 
 
-#### 5. product_numbers.py
+#### -- product_numbers.py
 
 Description: This script returns the product of any two numbers input by the user.
 
 Concepts Used: Basic arithmetic operations and user input.
 
 
-#### 6. quadsolve.py
+#### -- quadsolve.py
 
 Description: Solves quadratic equations using the formula method. Simply input the coefficients, and the program will calculate the roots.
 
 Concepts Used: Math operations and the quadratic formula.
 
 
-#### 7. simple_interest.py and simple_interest_calculator.py
+#### -- simple_interest.py and simple_interest_calculator.py
 
 Description: Both scripts calculate the simple interest based on the formula:
 
 
 Simple Interest = Principal × Rate × Time
 
-#### 8. translate.py
+#### -- translate.py
 
 Description: A script that converts text to its "leet" equivalent by replacing certain characters with numbers or symbols.
 
