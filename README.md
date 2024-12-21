@@ -56,6 +56,12 @@ Description: Both scripts calculate the simple interest based on the formula:
 
 
 Simple Interest = Principal × Rate × Time
+#### Statistics_example.py
+
+Description: This Python script calculates the mean, median, and mode for a given dataset using the statistics module. It displays results in a clean and formatted manner.
+
+Concepts Used: Basic Python Syntax, statistics Module (mean, median, mode), String Formatting
+
 
 #### -- translate.py
 
